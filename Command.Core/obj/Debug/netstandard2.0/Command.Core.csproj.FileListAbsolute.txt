@@ -1,0 +1,9 @@
+D:\Tests\DDD.Session16.MassTransit.Sample\Command.Core\bin\Debug\netstandard2.0\Command.Core.deps.json
+D:\Tests\DDD.Session16.MassTransit.Sample\Command.Core\bin\Debug\netstandard2.0\Command.Core.dll
+D:\Tests\DDD.Session16.MassTransit.Sample\Command.Core\obj\Debug\netstandard2.0\Command.Core.csprojAssemblyReference.cache
+D:\Tests\DDD.Session16.MassTransit.Sample\Command.Core\obj\Debug\netstandard2.0\Command.Core.csproj.CoreCompileInputs.cache
+D:\Tests\DDD.Session16.MassTransit.Sample\Command.Core\obj\Debug\netstandard2.0\Command.Core.AssemblyInfoInputs.cache
+D:\Tests\DDD.Session16.MassTransit.Sample\Command.Core\obj\Debug\netstandard2.0\Command.Core.AssemblyInfo.cs
+D:\Tests\DDD.Session16.MassTransit.Sample\Command.Core\bin\Debug\netstandard2.0\Command.Core.pdb
+D:\Tests\DDD.Session16.MassTransit.Sample\Command.Core\obj\Debug\netstandard2.0\Command.Core.dll
+D:\Tests\DDD.Session16.MassTransit.Sample\Command.Core\obj\Debug\netstandard2.0\Command.Core.pdb

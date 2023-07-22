@@ -1,0 +1,14 @@
+D:\Tests\DDD.Session16.MassTransit.Sample\CommandSender\bin\Debug\netcoreapp2.2\CommandSender.deps.json
+D:\Tests\DDD.Session16.MassTransit.Sample\CommandSender\bin\Debug\netcoreapp2.2\CommandSender.runtimeconfig.json
+D:\Tests\DDD.Session16.MassTransit.Sample\CommandSender\bin\Debug\netcoreapp2.2\CommandSender.runtimeconfig.dev.json
+D:\Tests\DDD.Session16.MassTransit.Sample\CommandSender\bin\Debug\netcoreapp2.2\CommandSender.dll
+D:\Tests\DDD.Session16.MassTransit.Sample\CommandSender\obj\Debug\netcoreapp2.2\CommandSender.csprojAssemblyReference.cache
+D:\Tests\DDD.Session16.MassTransit.Sample\CommandSender\obj\Debug\netcoreapp2.2\CommandSender.csproj.CoreCompileInputs.cache
+D:\Tests\DDD.Session16.MassTransit.Sample\CommandSender\obj\Debug\netcoreapp2.2\CommandSender.AssemblyInfoInputs.cache
+D:\Tests\DDD.Session16.MassTransit.Sample\CommandSender\obj\Debug\netcoreapp2.2\CommandSender.AssemblyInfo.cs
+D:\Tests\DDD.Session16.MassTransit.Sample\CommandSender\bin\Debug\netcoreapp2.2\CommandSender.pdb
+D:\Tests\DDD.Session16.MassTransit.Sample\CommandSender\bin\Debug\netcoreapp2.2\Command.Core.dll
+D:\Tests\DDD.Session16.MassTransit.Sample\CommandSender\bin\Debug\netcoreapp2.2\Command.Core.pdb
+D:\Tests\DDD.Session16.MassTransit.Sample\CommandSender\obj\Debug\netcoreapp2.2\CommandSender.csproj.CopyComplete
+D:\Tests\DDD.Session16.MassTransit.Sample\CommandSender\obj\Debug\netcoreapp2.2\CommandSender.dll
+D:\Tests\DDD.Session16.MassTransit.Sample\CommandSender\obj\Debug\netcoreapp2.2\CommandSender.pdb

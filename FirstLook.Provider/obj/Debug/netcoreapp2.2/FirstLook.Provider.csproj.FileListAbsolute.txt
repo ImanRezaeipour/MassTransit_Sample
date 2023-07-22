@@ -1,0 +1,11 @@
+D:\Tests\DDD.Session16.MassTransit.Sample\FirstLook.Provider\bin\Debug\netcoreapp2.2\FirstLook.Provider.deps.json
+D:\Tests\DDD.Session16.MassTransit.Sample\FirstLook.Provider\bin\Debug\netcoreapp2.2\FirstLook.Provider.runtimeconfig.json
+D:\Tests\DDD.Session16.MassTransit.Sample\FirstLook.Provider\bin\Debug\netcoreapp2.2\FirstLook.Provider.runtimeconfig.dev.json
+D:\Tests\DDD.Session16.MassTransit.Sample\FirstLook.Provider\bin\Debug\netcoreapp2.2\FirstLook.Provider.dll
+D:\Tests\DDD.Session16.MassTransit.Sample\FirstLook.Provider\obj\Debug\netcoreapp2.2\FirstLook.Provider.csprojAssemblyReference.cache
+D:\Tests\DDD.Session16.MassTransit.Sample\FirstLook.Provider\obj\Debug\netcoreapp2.2\FirstLook.Provider.csproj.CoreCompileInputs.cache
+D:\Tests\DDD.Session16.MassTransit.Sample\FirstLook.Provider\obj\Debug\netcoreapp2.2\FirstLook.Provider.AssemblyInfoInputs.cache
+D:\Tests\DDD.Session16.MassTransit.Sample\FirstLook.Provider\obj\Debug\netcoreapp2.2\FirstLook.Provider.AssemblyInfo.cs
+D:\Tests\DDD.Session16.MassTransit.Sample\FirstLook.Provider\bin\Debug\netcoreapp2.2\FirstLook.Provider.pdb
+D:\Tests\DDD.Session16.MassTransit.Sample\FirstLook.Provider\obj\Debug\netcoreapp2.2\FirstLook.Provider.dll
+D:\Tests\DDD.Session16.MassTransit.Sample\FirstLook.Provider\obj\Debug\netcoreapp2.2\FirstLook.Provider.pdb

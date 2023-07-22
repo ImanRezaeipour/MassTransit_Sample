@@ -1,0 +1,14 @@
+D:\Tests\DDD.Session16.MassTransit.Sample\EventReceiver01\bin\Debug\netcoreapp2.2\EventReceiver01.deps.json
+D:\Tests\DDD.Session16.MassTransit.Sample\EventReceiver01\bin\Debug\netcoreapp2.2\EventReceiver01.runtimeconfig.json
+D:\Tests\DDD.Session16.MassTransit.Sample\EventReceiver01\bin\Debug\netcoreapp2.2\EventReceiver01.runtimeconfig.dev.json
+D:\Tests\DDD.Session16.MassTransit.Sample\EventReceiver01\bin\Debug\netcoreapp2.2\EventReceiver01.dll
+D:\Tests\DDD.Session16.MassTransit.Sample\EventReceiver01\obj\Debug\netcoreapp2.2\EventReceiver01.csprojAssemblyReference.cache
+D:\Tests\DDD.Session16.MassTransit.Sample\EventReceiver01\obj\Debug\netcoreapp2.2\EventReceiver01.csproj.CoreCompileInputs.cache
+D:\Tests\DDD.Session16.MassTransit.Sample\EventReceiver01\obj\Debug\netcoreapp2.2\EventReceiver01.AssemblyInfoInputs.cache
+D:\Tests\DDD.Session16.MassTransit.Sample\EventReceiver01\obj\Debug\netcoreapp2.2\EventReceiver01.AssemblyInfo.cs
+D:\Tests\DDD.Session16.MassTransit.Sample\EventReceiver01\bin\Debug\netcoreapp2.2\EventReceiver01.pdb
+D:\Tests\DDD.Session16.MassTransit.Sample\EventReceiver01\bin\Debug\netcoreapp2.2\Command.Core.dll
+D:\Tests\DDD.Session16.MassTransit.Sample\EventReceiver01\bin\Debug\netcoreapp2.2\Command.Core.pdb
+D:\Tests\DDD.Session16.MassTransit.Sample\EventReceiver01\obj\Debug\netcoreapp2.2\EventReceiver01.csproj.CopyComplete
+D:\Tests\DDD.Session16.MassTransit.Sample\EventReceiver01\obj\Debug\netcoreapp2.2\EventReceiver01.dll
+D:\Tests\DDD.Session16.MassTransit.Sample\EventReceiver01\obj\Debug\netcoreapp2.2\EventReceiver01.pdb

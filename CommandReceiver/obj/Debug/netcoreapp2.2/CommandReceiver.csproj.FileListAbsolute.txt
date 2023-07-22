@@ -1,0 +1,14 @@
+D:\Tests\DDD.Session16.MassTransit.Sample\CommandReceiver\bin\Debug\netcoreapp2.2\CommandReceiver.deps.json
+D:\Tests\DDD.Session16.MassTransit.Sample\CommandReceiver\bin\Debug\netcoreapp2.2\CommandReceiver.runtimeconfig.json
+D:\Tests\DDD.Session16.MassTransit.Sample\CommandReceiver\bin\Debug\netcoreapp2.2\CommandReceiver.runtimeconfig.dev.json
+D:\Tests\DDD.Session16.MassTransit.Sample\CommandReceiver\bin\Debug\netcoreapp2.2\CommandReceiver.dll
+D:\Tests\DDD.Session16.MassTransit.Sample\CommandReceiver\obj\Debug\netcoreapp2.2\CommandReceiver.csprojAssemblyReference.cache
+D:\Tests\DDD.Session16.MassTransit.Sample\CommandReceiver\obj\Debug\netcoreapp2.2\CommandReceiver.csproj.CoreCompileInputs.cache
+D:\Tests\DDD.Session16.MassTransit.Sample\CommandReceiver\obj\Debug\netcoreapp2.2\CommandReceiver.AssemblyInfoInputs.cache
+D:\Tests\DDD.Session16.MassTransit.Sample\CommandReceiver\obj\Debug\netcoreapp2.2\CommandReceiver.AssemblyInfo.cs
+D:\Tests\DDD.Session16.MassTransit.Sample\CommandReceiver\bin\Debug\netcoreapp2.2\CommandReceiver.pdb
+D:\Tests\DDD.Session16.MassTransit.Sample\CommandReceiver\bin\Debug\netcoreapp2.2\Command.Core.dll
+D:\Tests\DDD.Session16.MassTransit.Sample\CommandReceiver\bin\Debug\netcoreapp2.2\Command.Core.pdb
+D:\Tests\DDD.Session16.MassTransit.Sample\CommandReceiver\obj\Debug\netcoreapp2.2\CommandReceiver.csproj.CopyComplete
+D:\Tests\DDD.Session16.MassTransit.Sample\CommandReceiver\obj\Debug\netcoreapp2.2\CommandReceiver.dll
+D:\Tests\DDD.Session16.MassTransit.Sample\CommandReceiver\obj\Debug\netcoreapp2.2\CommandReceiver.pdb

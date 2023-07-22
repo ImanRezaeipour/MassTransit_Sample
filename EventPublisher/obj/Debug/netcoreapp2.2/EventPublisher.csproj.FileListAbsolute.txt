@@ -1,0 +1,14 @@
+D:\Tests\DDD.Session16.MassTransit.Sample\EventPublisher\bin\Debug\netcoreapp2.2\EventPublisher.deps.json
+D:\Tests\DDD.Session16.MassTransit.Sample\EventPublisher\bin\Debug\netcoreapp2.2\EventPublisher.runtimeconfig.json
+D:\Tests\DDD.Session16.MassTransit.Sample\EventPublisher\bin\Debug\netcoreapp2.2\EventPublisher.runtimeconfig.dev.json
+D:\Tests\DDD.Session16.MassTransit.Sample\EventPublisher\bin\Debug\netcoreapp2.2\EventPublisher.dll
+D:\Tests\DDD.Session16.MassTransit.Sample\EventPublisher\obj\Debug\netcoreapp2.2\EventPublisher.csprojAssemblyReference.cache
+D:\Tests\DDD.Session16.MassTransit.Sample\EventPublisher\obj\Debug\netcoreapp2.2\EventPublisher.csproj.CoreCompileInputs.cache
+D:\Tests\DDD.Session16.MassTransit.Sample\EventPublisher\obj\Debug\netcoreapp2.2\EventPublisher.AssemblyInfoInputs.cache
+D:\Tests\DDD.Session16.MassTransit.Sample\EventPublisher\obj\Debug\netcoreapp2.2\EventPublisher.AssemblyInfo.cs
+D:\Tests\DDD.Session16.MassTransit.Sample\EventPublisher\bin\Debug\netcoreapp2.2\EventPublisher.pdb
+D:\Tests\DDD.Session16.MassTransit.Sample\EventPublisher\bin\Debug\netcoreapp2.2\Command.Core.dll
+D:\Tests\DDD.Session16.MassTransit.Sample\EventPublisher\bin\Debug\netcoreapp2.2\Command.Core.pdb
+D:\Tests\DDD.Session16.MassTransit.Sample\EventPublisher\obj\Debug\netcoreapp2.2\EventPublisher.csproj.CopyComplete
+D:\Tests\DDD.Session16.MassTransit.Sample\EventPublisher\obj\Debug\netcoreapp2.2\EventPublisher.dll
+D:\Tests\DDD.Session16.MassTransit.Sample\EventPublisher\obj\Debug\netcoreapp2.2\EventPublisher.pdb
